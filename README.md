@@ -11,7 +11,6 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && ap
 ```
 
 ❏ STEP 2 :    
-```
 ➽ If during the installation connection was lost, login to the vps again and run the command ☞shell
 ```
 tmux attach -t killer
