@@ -21,3 +21,8 @@ tmux attach-session -t xn
 ```
 
 
+## 📱 Tampilan Panel
+
+Setelah instalasi berhasil, Anda akan melihat panel seperti ini:
+
+![Panel Monitoring](panel_main.png)
